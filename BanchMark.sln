@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanchMark", "BanchMark\BanchMark.csproj", "{9AE32BCC-C579-4D7A-90D9-CC0F80BC2A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE32BCC-C579-4D7A-90D9-CC0F80BC2A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE32BCC-C579-4D7A-90D9-CC0F80BC2A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE32BCC-C579-4D7A-90D9-CC0F80BC2A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE32BCC-C579-4D7A-90D9-CC0F80BC2A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BBA70B2-8E95-4D33-99F1-82469D1D85B4}
+	EndGlobalSection
+EndGlobal
